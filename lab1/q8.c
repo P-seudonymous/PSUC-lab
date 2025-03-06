@@ -3,6 +3,7 @@
 int main(){
 	int a, b, c, d;
 
+
 	a = 30;
 	b = 10;
 	c = 5;
